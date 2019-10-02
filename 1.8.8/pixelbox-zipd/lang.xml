@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Español (ES)" date_format="j M Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="," thousands_separator="." label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="es-ES" text_direction="LTR" addon_id="XFI" base_version_id="1020370" export_version="2">
+  <phrase title="xfi_admin_user_group_id" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[ID de grupo de usuario de administrador]]></phrase>
+  <phrase title="xfi_guest_user_group_id" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[ID de grupo de usuario de invitado]]></phrase>
+  <phrase title="xfi_import_announcements" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Anuncios]]></phrase>
+  <phrase title="xfi_import_as_help_pages" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Páginas de ayuda]]></phrase>
+  <phrase title="xfi_import_as_page_nodes_with_parent_node" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Nodos de página, con su nodo primario]]></phrase>
+  <phrase title="xfi_import_attachments_path_vbulletin_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Introduce la ruta completa de la carpeta que contiene tus adjuntos de vBulletin. Si no puede encontrarse o leerse, puedes dejar vacío este valor, lo que causará que el importador se salte los adjuntos.]]></phrase>
+  <phrase title="xfi_import_avatars_path" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Ruta al directorio de avatares]]></phrase>
+  <phrase title="xfi_import_avatars_path_vbulletin_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Introduce la ruta completa de la carpeta que contiene tus avatares de vBulletin. Si no puede encontrarse o leerse, puedes dejar vacío este valor, lo que causará que el importador se salte los avatares.]]></phrase>
+  <phrase title="xfi_import_blog_attachments" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Adjuntos de blog]]></phrase>
+  <phrase title="xfi_import_blog_attachments_vb3" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Adjuntos de Blog (datos heredados)]]></phrase>
+  <phrase title="xfi_import_blog_attachments_vb4" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Adjuntos de Blog (datos de vBulletin 4)]]></phrase>
+  <phrase title="xfi_import_blog_comments" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Comentarios de blog]]></phrase>
+  <phrase title="xfi_import_blog_entries" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Entradas de blog]]></phrase>
+  <phrase title="xfi_import_blog_moderators" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Moderadores de blog]]></phrase>
+  <phrase title="xfi_import_blog_tags" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Etiquetas de blog]]></phrase>
+  <phrase title="xfi_import_blogs" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Blogs]]></phrase>
+  <phrase title="xfi_import_blogs_and_groups" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Importar blogs y grupos]]></phrase>
+  <phrase title="xfi_import_blogs_and_groups_vbulletin_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[vBulletin 5 también almacena contenido para blogs y grupos sociales en un formato tipo foro. Si lo deseas, puedes importar este contenido a XenForo como temas y mensajes. Si esta opción no está seleccionada, solo se importarán los foros que sean secundarios del canal 'Foro'.]]></phrase>
+  <phrase title="xfi_import_blogs_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Los blogs de vBulletin se importarán como temas. Selecciona un nodo existente donde deben insertarse estos temas. Si aún no existe un nodo adecuado, regresa al editor de nodos y crea un nuevo nodo del tipo Foro, y después, cuando regreses a esta página, selecciónalo.]]></phrase>
+  <phrase title="xfi_import_blogs_retain_ids_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Los blogs de vBulletin serán importados como temas. Escribe el nombre deseado para el nuevo nodo en el que estos temas deben ser insertados.]]></phrase>
+  <phrase title="xfi_import_buddy_ignore_lists" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Listas de amigos e ignorados]]></phrase>
+  <phrase title="xfi_import_captcha_questions" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Preguntas CAPTCHA]]></phrase>
+  <phrase title="xfi_import_faq_pages" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Páginas FAQ personalizadas]]></phrase>
+  <phrase title="xfi_import_faq_pages_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Las páginas de FAQ personalizadas que se encuentran en la base de datos de origen, pueden importarse como nodos de página de XenForo o como páginas de ayuda.
+
+Si eliges importar como nodos de página, por favor, selecciona o nombra un nodo principal en el que se colocarán estas páginas.
+
+Al importar las FAQ como páginas de ayuda, no se tendrán en cuenta las relaciones primario / secundario entre sus páginas de preguntas frecuentes, aunque se mantendrá el orden relativo.]]></phrase>
+  <phrase title="xfi_import_forums_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Si quieres que todos los foros y categorías de la base de datos de origen se importen en un foro o categoría primaria existente, selecciónalo aquí.
+
+Las relaciones primario / secundario existentes de los foros que se importarán, se mantendrán independientemente de si las importas o no, a un foro existente.]]></phrase>
+  <phrase title="xfi_import_infractions" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Infracciones]]></phrase>
+  <phrase title="xfi_import_newest_question" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Importar la pregunta más reciente]]></phrase>
+  <phrase title="xfi_import_notices" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Avisos]]></phrase>
+  <phrase title="xfi_import_notices_as" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Importar avisos como]]></phrase>
+  <phrase title="xfi_import_notices_explain" addon_id="XFI" version_id="1020270" version_string="1.2.2"><![CDATA[Selecciona un formato para usar en cualquier aviso importado de su base de datos de origen. Consulta <a href="https://xenforo.com/xf2-docs/manual/communication/#notices" target="_blank">Avisos</a> para obtener detalles sobre los tipos de avisos.]]></phrase>
+  <phrase title="xfi_import_oldest_question" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Importar la pregunta más antigua]]></phrase>
+  <phrase title="xfi_import_paid_subscriptions" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Suscripciones de pago]]></phrase>
+  <phrase title="xfi_import_persistent_notices_as" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Importar avisos persistentes como]]></phrase>
+  <phrase title="xfi_import_positive_reputation" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Reputación positiva]]></phrase>
+  <phrase title="xfi_import_private_messages" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Mensajes privados]]></phrase>
+  <phrase title="xfi_import_profile_comments" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Comentarios de perfil]]></phrase>
+  <phrase title="xfi_import_rss_feed_sources" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Fuentes de feed RSS]]></phrase>
+  <phrase title="xfi_import_title_for_blogs_parent_node" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Título para el nodo primario para los blogs]]></phrase>
+  <phrase title="xfi_import_title_for_faq_parent_node" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Título para el nodo primario para las FAQ]]></phrase>
+  <phrase title="xfi_member_user_group_id" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[ID de grupo de usuario de miembro (registrado)]]></phrase>
+  <phrase title="xfi_only_one_question_per_poll_is_supported_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Solo se admite una pregunta por encuesta. En el caso de que se encuentren varias preguntas en una sola encuesta, ¿prefieres importar la pregunta más reciente o la más antigua?]]></phrase>
+  <phrase title="xfi_poll_question_import_choice" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Elección de pregunta de encuesta para la importación]]></phrase>
+  <phrase title="xfi_super_admin_user_ids" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[IDs de usuarios Super administradores]]></phrase>
+  <phrase title="xfi_super_admin_user_ids_vbulletin_explain" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Si tienes <b>super administradores</b> definidos en tu archivo <code>config.php</code> de vBulletin, introduce los valores de dicho archivo aquí. Se tomará el ID de un único usuario, o bien, de una lista de IDs separados por comas.]]></phrase>
+  <phrase title="xfi_user_group_id_x_not_found_in_source_database" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[El grupo de usuario con el ID {id} no puede encontrarse en la base de datos de origen.]]></phrase>
+  <phrase title="xfi_you_may_only_import_from_xenforo_x" addon_id="XFI" version_id="1020370" version_string="1.2.3"><![CDATA[Solo puedes importar desde XenForo {version}.]]></phrase>
+</language>
